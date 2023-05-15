@@ -27,7 +27,7 @@ Results-oriented software developer with experience in front-end development, ba
 
 ### Software Developer <time> Mar 2023 – Present </time>
 
-<location> Infosys <br/> Hartford, CT, USA </location>
+<location> Infosys | Hartford, CT, USA </location>
 
 - Developed numerous features for an internal user-permissions application using Angular
 - Implemented unit testing with Jasmine for the entire client-side application and provided training on writing tests for the team
@@ -35,7 +35,7 @@ Results-oriented software developer with experience in front-end development, ba
 
 ### Data Warehouse Tester <time> Mar 2022 - Mar 2023 </time>
 
-<location> Infosys <br/> Hartford, CT, USA </location>
+<location> Infosys | Hartford, CT, USA </location>
 
 - Wrote complex SQL queries for ETL validations
 - Automated the team's workflow using Python, including connecting to databases, performing comparisons between datasets, generating reports and updating Jira via REST APIs
@@ -43,21 +43,11 @@ Results-oriented software developer with experience in front-end development, ba
 
 ### Software Developer in Training <time> Sep 2021 – Dec 2021 </time>
 
-<location> Revature </br> Merritt Island, FL, USA </location>
+<location> Revature | Merritt Island, FL, USA </location>
 
 - Completed an intensive full-stack curriculum with a focus on test automation, including Java, JavaScript/HTML/CSS, Spring Boot, Angular, JUnit, Selenium, Cucumber and AWS
 - Led two team-based projects, organizing efforts and contributing to development
 - Built two solo and two team-based full-stack applications, incorporating principles and technologies covered in class
-
-## Other Experience
-
-### Lifeguard I <time> Dec 2020 - Apr 2022 </time>
-
-<location> Brevard County Ocean Rescue </br> Rockledge, FL, USA </location>
-
-- Ensured the safety of beachgoers through constant vigilance, preventative actions and rescue measures when necessary
-- Provided beach patrons with relevant beach information including ocean conditions, tide times, rip current locations and inclement weather advisories
-- Provided medical care to beach patrons up to and including the EMT level
 
 ## Skills
 
@@ -65,22 +55,18 @@ Results-oriented software developer with experience in front-end development, ba
 - Languages: TypeScript, Java, Python, SQL (Postgres, DB2, Oracle), HTML, CSS, Markdown
 - Frameworks: React, React Native, Next.js, Angular, Tailwind CSS, Spring Boot
 
-</br>
-</br>
-</br>
-
 ## Projects
 
-### [Tom Latham Blog](https://www.tomlatham.blog), Personal Website
+### [Tom Latham Blog](https://www.tomlatham.blog) | Personal Website | Creator
 
 - Created blog using React and Next.js in order practice and demonstrate my programming skills and to educate others about interesting topics
 - Wrote blog posts in MDX (JSX embedded in Markdown) for interactivity and used the mdx-bundler package in conjunction with Next.js' `getStaticProps` to quickly pre-render posts at build time
 - Used Tailwind CSS to define color themes, implement responsiveness and explore utility-class-centric styling
 
-### [NMF.earth](https://github.com/NMF-earth/nmf-app), Open-Source Mobile Application
+### [NMF.earth](https://github.com/NMF-earth/nmf-app) | Open-Source Mobile Application | Contributor
 
 - Implemented a [settings toggle](https://github.com/NMF-earth/nmf-app/pull/365) and all related state-management logic to enable users to switch between metric and U.S. customary units throughout the React Native application
-- Extracted unit-display logic to utility function and enforced patterns for the same application wide in order to improve code reusability and legibility
-- Wrote unit tests for all my contributed code and included unit translations for all the application's supported languages
+- Extracted unit-display logic to utility functions and enforced related patterns in affected components in order to improve code reusability and legibility
+- Wrote unit tests for all my contributed code and included translations for all the application's supported languages
 
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
