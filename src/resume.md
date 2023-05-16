@@ -6,7 +6,7 @@
 
 [![Email](https://simpleicons.org/icons/gmail.svg) tlatham54@gmail.com](mailto:tlatham54@gmail.com)
 [![GitHub](https://simpleicons.org/icons/github.svg) github.com/ThomasLatham](https://github.com/ThomasLatham)
-[![Website](public/honeycomb.svg) www.tomlatham.blog](https://www.tomlatham.blog)
+[![Website](../public/honeycomb.svg) www.tomlatham.blog](https://www.tomlatham.blog)
 
 </span>
 

@@ -7,11 +7,11 @@ parent_path=$(
 )
 cd "$parent_path"
 
-# move the input html file to the output directory
-mv $(realpath ../src/resume.html) $(realpath ../output/)
-
 # define input and output files
-IF=$(realpath ../output/resume.html)
+IF=$(realpath ../src/resume.html)
 OF=$(realpath ../output/resume.pdf)
 
+# create the pdf
 start chrome --enable-logging --headless --disable-gpu --print-to-pdf=$OF --no-pdf-header-footer $IF
+
+# mv $IF $(realpath ../output/)
