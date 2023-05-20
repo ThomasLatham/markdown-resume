@@ -14,9 +14,7 @@ In case anybody else wants to have a resume in Markdown and also wants a hacky l
 - [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) VS Code extension
 - [Command Runner](https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner) VS Code extension
 
-### Usage
-
-#### Setup
+### Setup
 1. Clone the repo.
 2. Open VS Code -> File -> Open Workspace from File... -> Open `<wherever you cloned the repo>/markdown-resume/resources/markdown-resume.code-workspace`.
 3. Open `markdown-resume/resources/addition_to_keybindings.json`.
@@ -27,7 +25,7 @@ In case anybody else wants to have a resume in Markdown and also wants a hacky l
 6. Open `markdown-resume/src/resume.md` and edit to your heart's content. Or don't. Steal my identity. You won't last a minute in these shoes.
 7. Edit the CSS file if you feel like it.
 
-#### Execution
+### Execution
 1. With `resume.md` in the current editor (tab), press `ctrl+shift+S`.
 2. Let Chrome do it's thing.
 3. Find your PDF resume at `markdown-resume/output/resume.pdf`!
