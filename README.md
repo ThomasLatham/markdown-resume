@@ -10,8 +10,9 @@ In case anybody else wants to have a resume in Markdown and also wants a hacky l
 - Windows
 - VS Code
 - Google Chrome
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) extension
-- [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) extension
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) VS Code extension
+- [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) VS Code extension
+- [Command Runner](https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner) VS Code extension
 
 ### Usage
 
