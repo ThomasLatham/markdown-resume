@@ -2,7 +2,7 @@
 
  Copyright (c) 2023 Thomas Latham
  
- This project is not licensed.
+ License: MIT
  
  ## Third party software
  
