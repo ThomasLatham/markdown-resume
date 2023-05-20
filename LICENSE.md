@@ -12,7 +12,7 @@
  
  License: MIT
  
- ## Third party license text
+ ## License text
  
  ### MIT
  
