@@ -1,21 +1,21 @@
 ## License
 
- Copyright (c) 2023 Thomas Latham
- 
- This project is not licensed.
- 
- ## Third party software
- 
- ### [tengjuilin](https://github.com/tengjuilin)/[markdown-resume](https://github.com/tengjuilin/markdown-resume)
- 
- Copyright (c) 2021 Teng-Jui Lin
- 
- License: MIT
- 
- ## Third party license text
- 
- ### MIT
- 
+Copyright (c) 2023 Thomas Latham
+
+The file `honeycomb.svg` is not licensed. All other files are covered under the MIT license.
+
+## Third party software
+
+### [tengjuilin](https://github.com/tengjuilin)/[markdown-resume](https://github.com/tengjuilin/markdown-resume)
+
+Copyright (c) 2021 Teng-Jui Lin
+
+License: MIT
+
+## License text
+
+### MIT
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
